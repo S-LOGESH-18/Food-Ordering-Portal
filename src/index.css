@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(231, 234, 237);
+  align-content: center;
+  background-image: url('https://wallpapercave.com/wp/wp6603070.png');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: gold;
+}
+#Log7 {
+  background-color: #0074D9;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+  justify-content: center;
+}
+
+#Log7:hover {
+  background-color: #0056b3;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+html, body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  border-color:rgb(239, 239, 247);
+  display: table-cell;
+  vertical-align: middle;
+}
+.id 
+{
+  background-color: chartreuse;
+}
+.hi
+{
+  background-color: rgb(204, 255, 0);
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+#Log1
+{
+    width: 300px;
+    padding: 20px;
+    margin: auto;
+    background-color: aliceblue;
+    backdrop-filter: blur(10px);
+    border-radius: 10px; /* Adjust the value for the desired roundness */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Optional: Add a shadow for a card-like effect */
+
+}
+h1
+{
+  color:#f3ecec;
+}
+h2 {
+    text-align: center;
+}
+

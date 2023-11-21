@@ -1,0 +1,28 @@
+/* Example CSS */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  align-content: center;
+  color: gold;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: black;
+}
+.contentContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .contentContainer img {
+    width: 100px;
+    height: auto;
+    margin: 5px; 
+  }
+  
